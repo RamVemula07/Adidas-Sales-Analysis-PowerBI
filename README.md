@@ -1,6 +1,6 @@
 # Adidas-Sales-Analysis-PowerBI
 
-![Alt text](images/my-image.png)
+![Alt text](https://github.com/RamVemula07/Adidas-Sales-Analysis-PowerBI/blob/main/Adidas%20Dashboard.png)
 
 
 BUSINESS REQUIREMENTS
