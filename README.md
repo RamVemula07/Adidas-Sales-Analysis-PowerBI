@@ -1,6 +1,7 @@
-# Adidas-Sales-Analysis
+# Adidas-Sales-Analysis-PowerBI
 
-ADIDAS SALES ANALYSIS
+![Alt text](images/my-image.png)
+
 
 BUSINESS REQUIREMENTS
 
